@@ -1,0 +1,15 @@
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.csproj.AssemblyReference.cache
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.AssemblyInfoInputs.cache
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.AssemblyInfo.cs
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.csproj.CoreCompileInputs.cache
+C:\Users\khmav\SEMINAR6\Exs 2\bin\Debug\net6.0\Exs 2.exe
+C:\Users\khmav\SEMINAR6\Exs 2\bin\Debug\net6.0\Exs 2.deps.json
+C:\Users\khmav\SEMINAR6\Exs 2\bin\Debug\net6.0\Exs 2.runtimeconfig.json
+C:\Users\khmav\SEMINAR6\Exs 2\bin\Debug\net6.0\Exs 2.dll
+C:\Users\khmav\SEMINAR6\Exs 2\bin\Debug\net6.0\Exs 2.pdb
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.dll
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\refint\Exs 2.dll
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.pdb
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\Exs 2.genruntimeconfig.cache
+C:\Users\khmav\SEMINAR6\Exs 2\obj\Debug\net6.0\ref\Exs 2.dll
